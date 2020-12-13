@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-<H5>### Hi there 👋  Thanks for visiting my GitHub profile, it's great to see you! 😀 </H5>
+### Hi there 👋
+<H5>  Thanks for visiting my GitHub profile, it's great to see you! 😀 </H5>
 
 <p align="center"> 
  <br> Hit Count: </br>
