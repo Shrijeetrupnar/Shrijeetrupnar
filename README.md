@@ -1,4 +1,4 @@
-### Hi there 👋 
+
 
 <!--
 **Shrijeetrupnar/Shrijeetrupnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<H5>Hi there 👋 Thanks for visiting my GitHub profile, it's great to see you! 😀 </H5>
+<H5>### Hi there 👋  Thanks for visiting my GitHub profile, it's great to see you! 😀 </H5>
 
 <p align="center"> 
  <br> Hit Count: </br>
