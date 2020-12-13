@@ -6,8 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+<H5>Hi there 👋 Thanks for visiting my GitHub profile, it's great to see you! 😀 </H5>
+
 <p align="center"> 
- <br> [![HitCount]</br>
+ <br> Hit Count: </br>
   <img src="https://profile-counter.glitch.me/Shrijeetrupnar/count.svg" />
 </p>
 
