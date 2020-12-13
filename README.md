@@ -6,6 +6,18 @@
 Here are some ideas to get you started:
 -->
 
+<img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shrijeetrupnar/count.svg" />
+</p>
+
+<br />
+<br />
+
+
+
 [![HitCount](http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar.svg)](http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar)
 
 
