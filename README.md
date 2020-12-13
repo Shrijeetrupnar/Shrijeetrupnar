@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
- <br> Visitor count</br>
+ <br> [![HitCount]</br>
   <img src="https://profile-counter.glitch.me/Shrijeetrupnar/count.svg" />
 </p>
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-[![HitCount](http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar.svg)](http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar)
+(http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar.svg)](http://hits.dwyl.com/Shrijeetrupnar/Shrijeetrupnar)
 
 
 ### "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far." - Swami Vivekananda
