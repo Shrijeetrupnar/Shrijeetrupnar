@@ -33,10 +33,12 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 [linkedin]: https://www.linkedin.com/in/shrijeet-rupnar/
+[twitter]: https://twitter.com/shrijeet_rupnar
 [instagram]: https://www.instagram.com/shrijeet_rupnar/
 [facebook]: https://www.facebook.com/shrijeet.rupnar.777/
