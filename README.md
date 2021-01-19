@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+---
+
+![Shrijeet's github stats](https://github-readme-stats.vercel.app/api?username=Shrijeetrupnar&show_icons=true&theme=radical)
+
 
 [linkedin]: https://www.linkedin.com/in/shrijeet-rupnar/
 [twitter]: https://twitter.com/shrijeet_rupnar
