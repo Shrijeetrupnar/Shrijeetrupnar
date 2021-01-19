@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Shrijeet's github stats](https://github-readme-stats.vercel.app/api?username=Shrijeetrupnar&show_icons=true&theme=radical)
+![Shrijeet's github stats](https://github-readme-stats.vercel.app/api?username=Shrijeetrupnar&show_icons=true&theme=dark)
 
 
 [linkedin]: https://www.linkedin.com/in/shrijeet-rupnar/
