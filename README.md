@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 
 ### "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far." - Swami Vivekananda
  
- 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning : Spring, Spring Boot, Maven and javaScript
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...  javaScript and REST API
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with :  javaScript and REST API
+- 🥅 2021 Goals: Contribute more to Open Source projects and get a good friendcircle
 - 📫 How to reach me:  you can reach me @ shrijeetrupnar777@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can play triangle,cymbals and Bullet Thasha
 
 ### Connect with me:
 
